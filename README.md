@@ -1,2 +1,2 @@
 # Work-Family-Boundary-Management-of-Remote-Working-Parents
-Data available for publishing
+This repository contains the participant data collected for a research project conducted by Max Needle and Dr. Madeline E. Heilman at New York University.
